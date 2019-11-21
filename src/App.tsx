@@ -347,7 +347,7 @@ const App: React.FC = () => {
         </div>
       </div>
       <footer style={{color: "white", position:"fixed", bottom: 4 }}>
-        @copyright aKnow2
+        ©︎ aKnow2
       </footer>
     </div>
   );
